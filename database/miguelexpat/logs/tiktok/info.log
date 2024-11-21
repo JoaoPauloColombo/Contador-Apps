@@ -1,0 +1,11 @@
+[2024-11-13 21:43:02] [INFO] [motivabraee] Iniciando scraping
+[2024-11-13 21:43:12] [INFO] [motivabraee] Tentando resolver o CAPTCHA
+[2024-11-13 21:43:12] [INFO] [motivabraee] CAPTCHA não encontrado
+[2024-11-13 21:43:12] [INFO] [tododiacortezs] Iniciando scraping
+[2024-11-13 21:43:52] [INFO] Verificando datas dos vídeos para o usuário tododiacortezss...
+[2024-11-13 21:43:57] [INFO] Scraping concluído para o usuário: tododiacortezss com 0 visualizações válidas.
+[2024-11-13 21:43:57] [INFO] [miguelexpatworld] Iniciando scraping
+[2024-11-13 21:43:57] [INFO] Verificando novamente 1 usuários com 0 visualizações.
+[2024-11-13 21:43:57] [INFO] [tododiacortezss] Iniciando scraping
+[2024-11-13 21:43:57] [INFO] Fechando as instâncias do Chrome...
+[2024-11-13 21:43:57] [INFO] Tempo total de execução: 67.64 segundos

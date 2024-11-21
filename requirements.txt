@@ -1,0 +1,4 @@
+selenium==4.26.1
+undetected-chromedriver==3.5.5
+pandas==2.2.3
+tiktok-captcha-solver==0.5.0

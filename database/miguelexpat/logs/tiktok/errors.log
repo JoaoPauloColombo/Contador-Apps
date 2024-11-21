@@ -1,0 +1,30 @@
+[2024-11-13 21:43:12] [ERROR] [motivabraee] Elemento não encontrado
+[2024-11-13 21:43:32] [ERROR] Erro ao encontrar elementos para o usuário tododiacortezs: Message: 
+
+[2024-11-13 21:43:52] [ERROR] Erro ao encontrar elementos para o usuário tododiacortezss: Message: 
+
+[2024-11-13 21:43:57] [ERROR] Erro ao verificar datas dos vídeos para o usuário tododiacortezss: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x0110EBD3+24307]
+	(No symbol) [0x01098D74]
+	(No symbol) [0x00F7C323]
+	(No symbol) [0x00F5E00B]
+	(No symbol) [0x00FE5F6F]
+	(No symbol) [0x00FF8EC9]
+	(No symbol) [0x00FDFC26]
+	(No symbol) [0x00FB219C]
+	(No symbol) [0x00FB311D]
+	GetHandleVerifier [0x013B8D93+2818227]
+	GetHandleVerifier [0x0141542E+3196750]
+	GetHandleVerifier [0x0140D9D2+3165426]
+	GetHandleVerifier [0x011ADA70+675216]
+	(No symbol) [0x010A1B3D]
+	(No symbol) [0x0109EA18]
+	(No symbol) [0x0109EBB5]
+	(No symbol) [0x01091640]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x77CFC0CB+107]
+	RtlClearBits [0x77CFC04F+191]
+
